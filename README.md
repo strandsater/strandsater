@@ -1,4 +1,4 @@
-## Hi there 👋
+## Jakob Strandsäter - The Github Guru
 
 <!--
 **strandsater/strandsater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
